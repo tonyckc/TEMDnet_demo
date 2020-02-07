@@ -1,0 +1,2 @@
+# TEMDnet_demo
+This project is for a paper called "TEMDnet: A Novel Deep Denoising Network for Transient Electromagnetic Signal with Signal-to-Image Transformation". It is worth pointing out that we don't upload the datasets to this git repository due to the datasets are connected with the secrecy of project. Luckily, we will provide overall datasets in the future. If you have questions,please feel free to contact me. Finally, my Email is cs.ckc96@gmail.com , which is often uesed.
