@@ -6,7 +6,9 @@ Recently,data-driven denoising methods have achieved impressive perfromace, wher
 1) signal-to-image transformation method
 
 ![images](fig1.png)
+
 2) the proposed CNN-based denoiser
+
 ![images](fig2.png)
 ## Experimental Results
 ### On simulated data
@@ -15,3 +17,7 @@ Recently,data-driven denoising methods have achieved impressive perfromace, wher
 ### On real-world data
 
 ![images](fig4.png)
+
+## Configurations
+1) python 3+
+2) tensorflow 1.10
