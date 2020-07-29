@@ -7,6 +7,11 @@ Recently,data-driven denoising methods have achieved impressive perfromace, wher
 
 ![images](fig1.png)
 2) the proposed CNN-based denoiser
+![images](fig2.png)
 ## Experimental Results
 ### On simulated data
+
+![images](fig3.png)
 ### On real-world data
+
+![images](fig4.png)
