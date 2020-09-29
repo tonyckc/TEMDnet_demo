@@ -21,17 +21,17 @@ import sig_optimize
 import sig_test
 import sig_proprocess
 
-training_id = '2500test3_convege_TEMDNet_Sig_ADMM1031_NoTanh_stddev_ 0.001_concat_batchsize128'
+training_id = ''
 #MODEL_SAVE_PATH = '/home/chenkecheng/TEM_ADMM/trianing_data/{}/logs_{}'.format(training_id, training_id)
-MODEL_SAVE_PATH = 'E://A_paper//TEM_ADMM//trianing_data//logs_convege_TEMDNet_Sig_ADMM1031_NoTanh_stddev_ 0.001_concat_batchsize128'
+MODEL_SAVE_PATH = ''
 TENSORBOARD_SAVE_PATH = '/home/chenkecheng/TEM_ADMM/trianing_data/{}/tensorboard_{}'.format(training_id, training_id)
 DENOISING_IMG_PATH = '/home/chenkecheng/TEM_ADMM/trianing_data/{}/denoising_img_{}'.format(training_id, training_id)
 DATASET_PATH_INPUT = '/hdd/chenkecheng/TEM_ADMM/src/noise_signal.mat'
 DATASET_PATH_REAL = '/hdd/chenkecheng/TEM_ADMM/src/clean_signal.mat'
 #DATASET_PATH_TEST = '/hdd/chenkecheng/TEM_ADMM/src/test.mat'
-DATASET_PATH_TEST = './src/test.mat'
-#TEST_SAVE_PATH = '/home/chenkecheng/TEM_ADMM/src/model_saved_test'
-TEST_SAVE_PATH = './src/model_saved_test'
+DATASET_PATH_TEST = ''
+#TEST_SAVE_PATH = ''
+TEST_SAVE_PATH = ''
 LEARNING_RATE_BASE = 0.001
 LEARNING_RATE_DECAY = 0.98
 EPOCHS = 222
